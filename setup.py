@@ -13,5 +13,5 @@ setup(name='delaplib',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/delaplib-run'],
+      scripts=['scripts/delaplib-run','scripts/unknow'],
       zip_safe=False)
